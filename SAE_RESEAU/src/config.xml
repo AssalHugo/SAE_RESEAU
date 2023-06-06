@@ -1,0 +1,8 @@
+<webconf>
+    <port>8585</port>
+    <root>C:\Users\hugoa\OneDrive - Universite de Lorraine\Documents\SAE_RESEAU\src\html</root>
+    <accept>localhost</accept>
+    <reject>192.168.1.0/24</reject>
+    <accesslog>C:\Users\hugoa\OneDrive - Universite de Lorraine\Documents\SAE_RESEAU\src\log\access.log</accesslog>
+    <errorlog>C:\Users\hugoa\OneDrive - Universite de Lorraine\Documents\SAE_RESEAU\src\log\error.log</errorlog>
+</webconf>
